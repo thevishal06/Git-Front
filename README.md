@@ -1,11 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=No+One+is+Perfect!+%F0%9F%99%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Zilla+Slab&size=100&weight=600&pause=1000&color=19E7FF&center=true&width=2000&height=200&lines=No+One+is+Perfect!)](https://git.io/typing-svg)
 
 ![MasterHead](/head.gif)
 
 
 
 
-<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h1 align="center">Hi , I'm Vishal</h1>
 <h2 align="center">A Developer from India!</h2><hr>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mistermickey&label=Profile%20views&color=0e75b6&style=flat" alt="mistermickey" /> </p>-->
@@ -63,5 +63,5 @@
 
 [![thevishal06's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thevishal06&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center"><a href="https://www.buymeacoffee.com/geezgod2002" target="_blank">
- <img src="https://www.buymeacoffee.com/thevishal06" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" ></a></div>
+<div align="center"><a href="https://www.buymeacoffee.com/thevishal06" target="_blank">
+ <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" class style="height: 60px !important;width: 217px !important;" ></a></div>
